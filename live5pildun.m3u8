@@ -1,7 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=654500,RESOLUTION=640x360,CODECS="avc1.64001e,mp4a.40.2"
-https://cdn.raino.xyz/hls/stream1-version0/rainostream.m3u8
-
-#EXT-X-STREAM-INF:BANDWIDTH=2084500,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://cdn.raino.xyz/hls/stream1-version1/rainostream.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+https://egress-ev-wps-32205-roundz008c95-397-1669054070.live.streamer.wpstream.net/ev_wps_32205_roundz008c95_397_1669054070/hls/z04wbjqca8mw45ez.m3u8
