@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+https://murthyneeraj231.s3.amazonaws.com/worldcup_480.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+https://murthyneeraj231.s3.amazonaws.com/worldcup_720.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+https://murthyneeraj231.s3.amazonaws.com/worldcup_1080.m3u8
