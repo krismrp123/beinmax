@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://lb.yacinetvkora.com/live/lb/bm2-240.m3u8
+http://lb.yacinetvkora.com/live/lb555/bm2-240.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://lb.buy-global.store/live/lb555/bm1-240.m3u8
