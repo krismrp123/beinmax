@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://51.210.199.32/hls/stream.m3u8
+https://live-ak.vimeocdn.com/exp=1671373101~acl=%2Ff5305553-5ced-4e58-bdc7-26bf9cf704e2%2F%2A~hmac=1bc135e9cd1ca1bd5960f89880c6046a7eb8916200052af35a80d944fe76ceae/f5305553-5ced-4e58-bdc7-26bf9cf704e2/chunklist_b416000.m3u8?max_segments=10
